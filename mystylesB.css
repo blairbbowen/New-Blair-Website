@@ -1,0 +1,42 @@
+body {
+    background-color: rgb(253, 238, 254);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+  }
+
+p {color: rgb(79, 38, 157)}
+
+#Swig {
+    font-family: 'Anton', sans-serif;
+    font-size: 30px
+   
+    
+}
+
+#myHeader {
+
+    font-family: 'Anton', sans-serif;
+    font-size: 50px
+}
+
+
+.content{
+margin-left: 10%;
+
+}
+
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+  }
+
+  div {
+    width: 300px;
+    border: 15px solid rgb(223);
+    padding: 10px;
+  }
+
+  
